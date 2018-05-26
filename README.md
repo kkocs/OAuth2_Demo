@@ -4,11 +4,11 @@
 # Help
 # 1. Start spring-authorization-server using the following commands:
 
--- cd spring-authorization-server
+-- cd spring-authorization-server  
 -- ./gradlew bootRun
 
 # 2. Start spring-resource-server using the following commands:
--- cd spring-resource-server
+-- cd spring-resource-server  
 -- ./gradlew bootRun
 
 # 3. Open Client Application on aademo.tk
@@ -32,6 +32,6 @@ Backend
 -------------------------------
 Directory Structure
 -------------------------------
-> |-backend-servers
-> |--spring-authorization-server
+> |-backend-servers  
+> |--spring-authorization-server  
 > |--spring-resource-server
